@@ -1,1 +1,2 @@
-# demoproj
+# demoproject
+Welcome to the new project
